@@ -1,0 +1,18 @@
+.icon-cart {
+ 
+  position: relative;
+
+  margin-left: 25px;
+}
+
+
+
+.notificacao{
+  width: 20px;
+  height: 20px;
+  background: #0afccc;
+  text-align: center;
+  border-radius: 20px;
+	margin-left: 10px;
+	margin-top: -30px;
+}
